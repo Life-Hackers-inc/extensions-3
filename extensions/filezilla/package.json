@@ -31,7 +31,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.39.0",
+    "@raycast/api": "^1.80.0",
     "fast-xml-parser": "^4.0.9"
   },
   "devDependencies": {
